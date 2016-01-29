@@ -1,0 +1,9 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "mime": "~1.2.7",
+    "socket.io":"~0.9.6"
+  }
+}
